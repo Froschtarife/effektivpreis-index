@@ -1,0 +1,22 @@
+stand;art;kennzahl_oder_rang;wert;marke;modell;speicher_gb;unterschied_eur;portale_verglichen
+2026-11-10T09:23:55+01:00;kennzahl;handys_verglichen;45;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;davon_bei_allen_drei_portalen;34;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;median_unterschied_eur;31.68;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;handys_ab_50_eur_unterschied;11;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;handys_ueber_100_eur_unterschied;3;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;zeitfenster_stunden;24;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;pruefzeiten_von;2026-11-08T09:32:53+01:00;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;pruefzeiten_bis;2026-11-10T08:49:27+01:00;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;hoechstes_gebot_clevertronic_handys;8;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;hoechstes_gebot_wirkaufens_handys;8;;;;;
+2026-11-10T09:23:55+01:00;kennzahl;hoechstes_gebot_zoxs_handys;29;;;;;
+2026-11-10T09:23:55+01:00;groesster_unterschied;1;;samsung;galaxy z fold8;512;216.98;3
+2026-11-10T09:23:55+01:00;groesster_unterschied;2;;samsung;galaxy z fold8 ultra;512;168.87;2
+2026-11-10T09:23:55+01:00;groesster_unterschied;3;;samsung;galaxy z fold8 ultra;256;119.95;3
+2026-11-10T09:23:55+01:00;groesster_unterschied;4;;apple;iphone 17e;512;87.80;3
+2026-11-10T09:23:55+01:00;groesster_unterschied;5;;apple;iphone 16e;128;80.13;3
+2026-11-10T09:23:55+01:00;groesster_unterschied;6;;apple;iphone 18 pro max;512;74.15;3
+2026-11-10T09:23:55+01:00;groesster_unterschied;7;;honor;magic 7 pro;512;72.64;3
+2026-11-10T09:23:55+01:00;groesster_unterschied;8;;samsung;galaxy s26 fe;256;64.50;3
+2026-11-10T09:23:55+01:00;groesster_unterschied;9;;apple;iphone 18 pro;256;58.97;3
+2026-11-10T09:23:55+01:00;groesster_unterschied;10;;apple;iphone air;1024;58.67;3
